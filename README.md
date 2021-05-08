@@ -9,6 +9,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlacekic&show_icons=true&locale=en&layout=compact" alt="damlacekic"/></p>
 
+<h3 align= "center">                        </h3> 
+
 <h2 align="left">Github profile stats card:</h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=damlacekic&show_icons=true&locale=en" alt="damlacekic"/></p>
