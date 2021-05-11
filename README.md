@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Damla </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damlacekic&label=Profile%20views&color=0e75b6&style=flat" alt="damlacekic" /> </p>
+
 <h3 align="left">I am a Computer Engineer student at Ege University</h3>
+
+
 
 
 <h2 align="left">Top Skills:</h2>
